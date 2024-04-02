@@ -1,6 +1,6 @@
 {
-    "name": "X Yeve",
-    "symbol": "xYeve",
-    "description": "Yevefi option token",
-    "image": "https://raw.githubusercontent.com/yevefinance/contracts_sol/main/public/images/xyeve.png"
+  "name": "X Yeve",
+  "symbol": "xYeve",
+  "description": "Yevefi option token",
+  "image": "https://raw.githubusercontent.com/CzyDev131/yevefi-assets/main/public/images/xyeve.png"
 }
